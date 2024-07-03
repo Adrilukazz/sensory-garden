@@ -5,10 +5,11 @@ These files are from a product design project I did involving use of some electr
 YouTube video of my product - (soon)
 
 ## Hardware & Stuff
-Arduino Nano 328P chip (clone) Type-C
-0.96-inch OLED Screen Module SSD1306
-3.7v 300mA 502035 Lithium-Ion Battery
-MFRC-522 Mini RFID Module
+* Arduino Nano 328P chip (clone) Type-C
+* 0.96-inch OLED Screen Module SSD1306
+* 3.7v 300mA 502035 Lithium-Ion Battery
+* MFRC-522 Mini RFID Module
+* 13.56MHz RFID Tags (Mifare Classic & Mifare Ultralight)
 
 ## Software & Resources
 * Arduino IDE - [Official site for Arduino IDE Software](https://www.arduino.cc/en/software)
@@ -17,7 +18,7 @@ MFRC-522 Mini RFID Module
 * Image2ccp - [Converting Image to Byte Arrays](https://javl.github.io/image2cpp/)
 * (Some) Icon animations - [Icons8 Copyright Free Icons](https://icons8.com/icons/set/popular--animated)
 
-## Tutorials
+## Tutorials I used
 * Arduino OLED monochrome Tutorial [Arduino & Monochrome Animation Screen Tutorial by upir ](https://www.youtube.com/watch?v=o3PhC_VJdXo)
 
 ## Pins & Connections
